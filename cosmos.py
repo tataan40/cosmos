@@ -5,25 +5,26 @@ import time
 208.92.228.62 Houston
 61.145.4.116 Shanghai
 35.214.46.64 London
+165.231.90.2 Paris
 '''
 
 
 ### Data ###
 ############
 
-ip_source='35.214.46.64'
+ip_source='61.145.4.11'
 ip_destination='165.231.90.26'
 reader = geoip2.database.Reader('./GeoLite2-City_20201229/GeoLite2-City.mmdb')
 
 
-### Source Code ###
-###################
+### Source Code only for Cities ###
+###################################
 
 def decide_path(ip_source,ip_destination,reader):
     if reader.city(ip_source) != reader.city(ip_destination):
-        path = 'IPv4 passed though LEO satellites'
+        path = 'IPv4 passed through LEO Satellites Network'
     else:
-        path ='IPv4 passed though fiber'
+        path ='IPv4 passed through Fiber Network'
     return path
 
 
