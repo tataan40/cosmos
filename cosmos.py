@@ -15,8 +15,8 @@ import time
 ### Data ###
 ############
 
-ip_source='72.229.28.185'
-ip_destination='208.92.228.62'
+ip_source='91.169.216.86'
+ip_destination='165.231.90.2'
 reader = geoip2.database.Reader('./GeoLite2-City_20201229/GeoLite2-City.mmdb')
 
 
@@ -52,7 +52,8 @@ for i in range(100):
 
 ### Script Detail ###
 #####################
-
+print('From: ',ip_source)
+print('To: ',ip_destination)
 average(list_delays)
 reader = geoip2.database.Reader('./GeoLite2-City_20201229/GeoLite2-City.mmdb')
 response_source = reader.city(ip_source)
