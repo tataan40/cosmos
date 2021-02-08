@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78f9ea62-542a-483b-92d2-174612dccb19" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cosmos.py" beforeDir="false" afterPath="$PROJECT_DIR$/cosmos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/cosmos.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/cosmos.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,11 +24,12 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager" selected="Python.cosmos">
@@ -109,6 +110,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -121,31 +123,5 @@
       <updated>1609207874091</updated>
     </task>
     <servers />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="184" y="87" width="1071" height="699" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1609208405073">
-      <screen x="0" y="23" width="1440" height="801" />
-    </state>
-    <state x="184" y="87" width="1071" height="699" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.801@0.23.1440.801" timestamp="1609208405073" />
-    <state x="412" y="233" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1609284208781">
-      <screen x="0" y="23" width="1440" height="801" />
-    </state>
-    <state x="412" y="233" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.801@0.23.1440.801" timestamp="1609284208781" />
-    <state width="1419" height="299" key="GridCell.Tab.0.bottom" timestamp="1611521435673">
-      <screen x="0" y="23" width="1440" height="801" />
-    </state>
-    <state width="1419" height="299" key="GridCell.Tab.0.bottom/0.23.1440.801@0.23.1440.801" timestamp="1611521435673" />
-    <state width="1419" height="299" key="GridCell.Tab.0.center" timestamp="1611521435672">
-      <screen x="0" y="23" width="1440" height="801" />
-    </state>
-    <state width="1419" height="299" key="GridCell.Tab.0.center/0.23.1440.801@0.23.1440.801" timestamp="1611521435672" />
-    <state width="1419" height="299" key="GridCell.Tab.0.left" timestamp="1611521435671">
-      <screen x="0" y="23" width="1440" height="801" />
-    </state>
-    <state width="1419" height="299" key="GridCell.Tab.0.left/0.23.1440.801@0.23.1440.801" timestamp="1611521435671" />
-    <state width="1419" height="299" key="GridCell.Tab.0.right" timestamp="1611521435672">
-      <screen x="0" y="23" width="1440" height="801" />
-    </state>
-    <state width="1419" height="299" key="GridCell.Tab.0.right/0.23.1440.801@0.23.1440.801" timestamp="1611521435672" />
   </component>
 </project>
